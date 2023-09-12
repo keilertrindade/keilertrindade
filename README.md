@@ -19,22 +19,24 @@ O objetivo é refatorar o projeto para funcionar como uma API para web e mobile.
 
 ### 👉 <a href="https://github.com/gabriele-martins/HackadevCSharks" target="_blank">Projeto Sharks Bank </a>
 Repositório do projeto Sharks Bank, projeto final do programa SharpCoders, minha principal contribuição com o projeto foi 
-com o Front End (React). Link do projeto Netlify https://sharksbank.netlify.app/
+com o Front End (React).<br>
+<a href="https://sharksbank.netlify.app/" target="_blank">Clique para conferir o projeto</a>
 
 ### 👉 <a href="https://github.com/keilertrindade/Testelandingpageportalf" target="_blank">Landing Page - Indikmais </a>
 Repositório do IndikMais, projeto da empresa onde fiz o backend em Php para envio de e-mails a cada cadastro realizado,
-além de salvar os dados em uma planilha do Google Sheets.  Link: http://indikmais.com.br/
+além de salvar os dados em uma planilha do Google Sheets.<br>
+<a href="http://indikmais.com.br/" target="_blank">Clique para conferir o projeto</a>
 
 ### 👉 <a href="https://github.com/viniciusdmorais/Projeto-Integrador" target="_blank">Bora Comer</a>
 Projeto final realizado para o curso da Proz , projeto realizado em Html, CSS e JS apenas que foi o escopo do programa.
 Minha principal contribuição foi no ajuste dos filtros e na página Quem Somos. <br>
-Link: https://viniciusdmorais.github.io/Projeto-Integrador/index.html
+<a href="https://viniciusdmorais.github.io/Projeto-Integrador/index.html" target="_blank">Clique para conferir o projeto</a>
 
 ### 👉 <a href="https://github.com/keilertrindade/pokedex-vanilla" target="_blank">Pokedex Vanilla</a>
 Projeto de uma Pokedex, consumindo a PokeAPI apenas utilizando HTML, CSS e JS. Funciona com uma busca na tela inicial 
 e exibindo dois pokemons que são gerados de forma aleatória. A página de detalhes possui uma tabela com os status do
 pokemon e caso o pokemon não exista é exibido as informações do MissigNo. <br>
-Link: https://keilertrindade.github.io/pokedex-vanilla/
+<a href="https://keilertrindade.github.io/pokedex-vanilla/" target="_blank">Clique para conferir o projeto</a>
 
 O objetivo é replicar o projeto usando as tecnologias que for aperfeiçoando.
 
@@ -42,7 +44,8 @@ O objetivo é replicar o projeto usando as tecnologias que for aperfeiçoando.
 Projeto que foi interrompido por questões do cliente, um site para organização de um campeonato de Handball,
 Realizado em php, permite o cadastro de conta (time), inclusão dos jogadores com fotos e exibição dos jogadores cadastrados.
 Pretendo refatorar o projeto inteiro em React com API em C# ou Java. <br>
-Link: https://keilertrindade.github.io/MontePascoal/
+<a href="https://keilertrindade.github.io/MontePascoal/" target="_blank">Clique para conferir o projeto</a>
+
 
 ## 🛠️ Habilidades
 
@@ -196,7 +199,7 @@ Link: https://keilertrindade.github.io/MontePascoal/
 	<a href="https://linkedin.com/in/keilertrindade"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://instagram.com/keilertrindade"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<!-- <a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
+	<a href="https://www.youtube.com/@keilerst"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 </p>
 
 <hr/>
