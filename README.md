@@ -11,6 +11,38 @@
 ## 🔥 Estatísticas
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=keilertrindade&theme=algolia" alt="keilertrindade"  /></p>
 
+## 📑️ Principais Projetos
+
+### 👉 <a href="https://github.com/ProjetoBionet/projeto" target="_blank">Projeto Bionet</a>
+Repositório com os arquivos do projeto realizado para Android, feito na faculdade como projeto integralizador (TCC).
+O objetivo é refatorar o projeto para funcionar como uma API para web e mobile.
+
+### 👉 <a href="https://github.com/gabriele-martins/HackadevCSharks" target="_blank">Projeto Sharks Bank </a>
+Repositório do projeto Sharks Bank, projeto final do programa SharpCoders, minha principal contribuição com o projeto foi 
+com o Front End (React). Link do projeto Netlify https://sharksbank.netlify.app/
+
+### 👉 <a href="https://github.com/keilertrindade/Testelandingpageportalf" target="_blank">Landing Page - Indikmais </a>
+Repositório do IndikMais, projeto da empresa onde fiz o backend em Php para envio de e-mails a cada cadastro realizado,
+além de salvar os dados em uma planilha do Google Sheets.  Link: http://indikmais.com.br/
+
+### 👉 <a href="https://github.com/viniciusdmorais/Projeto-Integrador" target="_blank">Bora Comer</a>
+Projeto final realizado para o curso da Proz , projeto realizado em Html, CSS e JS apenas que foi o escopo do programa.
+Minha principal contribuição foi no ajuste dos filtros e na página Quem Somos. <br>
+Link: https://viniciusdmorais.github.io/Projeto-Integrador/index.html
+
+### 👉 <a href="https://github.com/keilertrindade/pokedex-vanilla" target="_blank">Pokedex Vanilla</a>
+Projeto de uma Pokedex, consumindo a PokeAPI apenas utilizando HTML, CSS e JS. Funciona com uma busca na tela inicial 
+e exibindo dois pokemons que são gerados de forma aleatória. A página de detalhes possui uma tabela com os status do
+pokemon e caso o pokemon não exista é exibido as informações do MissigNo. <br>
+Link: https://keilertrindade.github.io/pokedex-vanilla/
+
+O objetivo é replicar o projeto usando as tecnologias que for aperfeiçoando.
+
+### 👉 <a href="https://github.com/keilertrindade/MontePascoal" target="_blank">Projeto Monte Pascoal</a>
+Projeto que foi interrompido por questões do cliente, um site para organização de um campeonato de Handball,
+Realizado em php, permite o cadastro de conta (time), inclusão dos jogadores com fotos e exibição dos jogadores cadastrados.
+Pretendo refatorar o projeto inteiro em React com API em C# ou Java. <br>
+Link: https://keilertrindade.github.io/MontePascoal/
 
 ## 🛠️ Habilidades
 
@@ -34,7 +66,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
   &emsp;
-  &emsp;<a href="https://www.php.net/">
+  <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
 </p>
@@ -54,9 +86,11 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  <a href="https://react.dev/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
+
+
 </p>
 
 ### 👉 Banco de Dados & Hospedagem em Nuvem
@@ -73,13 +107,14 @@
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
   &emsp;
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+  &emsp;
+    <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white"></a>
  </p>
   
 ### 👉Design Gráfico
 <p align="left">
   &emsp;
- 
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white"/>
   </a> 
   &emsp;
@@ -107,8 +142,15 @@
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
+&emsp;
+    <a href="#"><img alt="Intellij IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>  &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white"></a>
+ &emsp;
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
 </p>
 <br/>
 
@@ -137,13 +179,21 @@
 
 <br/>
 
+## 🎓 Formação 
+
+##### 👉 Bacharelado em Sistemas de Informação, 2018 - Centro Universitário Dom Pedro II [Salvador, BA]
+##### 👉 Programa de Introdução a Programação, 2023 - Proz [Parceria com a Meta e AWS]
+##### 👉 Programa Sharp Coders para programadores Full Stack, 2023 - Imã Tech
+##### 👉 Bootcamp DIO - Banco Carrefour, 2022 [Completada as trilhas de Docker, Linux, Kubernetes]
+##### 👉 Bootcamp DIO - Desenvolvimento Java com Cloud AWS, 2023 [Em andamento]
+
 ## 🙋‍♀️ Vamos conectar
 <p align="center">
     <!--<a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
 	<a href="mailto:keiler.trindade@hotmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Hotmail"/></a>
 	<a href="https://github.com/keilertrindade"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/keilertrindade"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/keiler.trindade"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://instagram.com/keilertrindade"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<!-- <a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
 </p>
@@ -152,3 +202,12 @@
 
 * Credit: [Candida18](https://github.com/Candida18)
 * Ultima alteração: 11/09/2023
+
+
+
+
+
+
+
+
+
