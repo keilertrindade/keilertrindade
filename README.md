@@ -35,16 +35,17 @@ Minha principal contribuição foi no ajuste dos filtros e na página Quem Somos
 ### 👉 <a href="https://github.com/keilertrindade/pokedex-vanilla" target="_blank">Pokedex Vanilla</a>
 Projeto de uma Pokedex, consumindo a PokeAPI apenas utilizando HTML, CSS e JS. Funciona com uma busca na tela inicial 
 e exibindo dois pokemons que são gerados de forma aleatória. A página de detalhes possui uma tabela com os status do
-pokemon e caso o pokemon não exista é exibido as informações do MissigNo. <br>
+pokemon e caso o pokemon não exista é exibido as informações do MissigNo.
 
+O objetivo é replicar o projeto usando as tecnologias que for aperfeiçoando.<br>
 #### <a href="https://keilertrindade.github.io/pokedex-vanilla/" target="_blank">Clique para conferir o projeto hospedado</a>
 
-O objetivo é replicar o projeto usando as tecnologias que for aperfeiçoando.
+
 
 ### 👉 <a href="https://github.com/keilertrindade/MontePascoal" target="_blank">Projeto Monte Pascoal</a>
 Projeto que foi interrompido por questões do cliente, um site para organização de um campeonato de Handball,
 Realizado em php, permite o cadastro de conta (time), inclusão dos jogadores com fotos e exibição dos jogadores cadastrados.
-Pretendo refatorar o projeto inteiro em React com API em C# ou Java. <br>
+Pretendo refatorar o projeto inteiro em React com API em C# ou Java.<br>
 #### <a href="https://keilertrindade.github.io/MontePascoal/" target="_blank">Clique para conferir o projeto hospedado</a>
 
 ## 🛠️ Habilidades
