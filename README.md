@@ -32,6 +32,11 @@ Projeto final realizado para o curso da Proz , projeto realizado em Html, CSS e 
 Minha principal contribuição foi no ajuste dos filtros e na página Quem Somos. <br>
 #### <a href="https://viniciusdmorais.github.io/Projeto-Integrador/index.html" target="_blank">Clique para conferir o projeto hospedado</a>
 
+### 👉 <a href="https://github.com/keilertrindade/eventa-api" target="_blank">Eventa API</a>
+Projeto final realizado para o módulo de Springboot do curso de Java + AWS da DIO. Backend utilizando Spring e PostgreeSQL (usando o Neon.tech como persistencia online) para servir um site de "eventos" similar ao Sympla
+Ajustes finais da API ainda em construção...
+<br>
+
 ### 👉 <a href="https://github.com/keilertrindade/pokedex-vanilla" target="_blank">Pokedex Vanilla</a>
 Projeto de uma Pokedex, consumindo a PokeAPI apenas utilizando HTML, CSS e JS. Funciona com uma busca na tela inicial 
 e exibindo dois pokemons que são gerados de forma aleatória. A página de detalhes possui uma tabela com os status do
